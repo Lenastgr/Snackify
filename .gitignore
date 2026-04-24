@@ -3,7 +3,8 @@ wp-config.php
 
 # Mediathek (zu groß für Git)
 wp-content/uploads/
-
+app/public/wp-content/plugins/*
+app/public/*
 # Third-Party-Themes und Plugins
 wp-content/themes/twenty*/
 wp-content/plugins/akismet/
