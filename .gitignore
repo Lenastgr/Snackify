@@ -1,0 +1,20 @@
+# Sensible Konfiguration
+wp-config.php
+
+# Mediathek (zu groß für Git)
+wp-content/uploads/
+
+# Third-Party-Themes und Plugins
+wp-content/themes/twenty*/
+wp-content/plugins/akismet/
+wp-content/plugins/hello.php
+
+# System
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+wp-content/debug.log
+
+# Datenbank-Dumps
+*.sql
